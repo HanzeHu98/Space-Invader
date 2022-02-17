@@ -22,4 +22,4 @@ Power ups randomly drop after you defeat an enemy ship, each powerup lasts 5 sec
 ![Basic Enemy](/res/basic-enemy.png) The basic enemy is worth 50 points <br>
 ![Moving Enemy](/res/sine-enemy.png) The moving enemy is worth 100 points <br>
 ![Basic Shooter](/res/basic-shooter.png) The shooter enemyis worth 200 points <br>
-![Boss](/res/boss.png) The boss enemy is worth 5000 points!! <br>
+![Boss](/res/boss.png) The boss is worth 5000 points!! <br>
